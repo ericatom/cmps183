@@ -1,0 +1,24 @@
+.topHeader{
+  height: 150px;
+  width: 100%;
+  background-color: #0a3157;
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: white;
+  padding-top: 25px;
+}
+
+.ucscimage{
+  float: left;
+  max-height: 120px;
+  width: 30%;
+  padding-top: 25px;
+  padding-left: 10px;
+}
+
+.ucscText{
+  text-align: right;
+  padding-top: 50px;
+  padding-right: 30px;
+}
