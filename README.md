@@ -11,3 +11,7 @@ Need to install python (version 2.7) and bottle.py
 1. Download the files in the directory
 2. On command line: *python server.py*
 3. Open a browser and go to localhost:8080
+
+###### Borrowed Files
+stupid.css: https://mdipierro.github.io/stupid.css/index.html#service-modal
+bottle.py: http://bottlepy.org/
